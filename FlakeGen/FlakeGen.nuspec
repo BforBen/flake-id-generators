@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>FlakeGen</id>
+    <version>1.0.0</version>
+    <authors>Ben Cheetham</authors>
+    <owners>Guildford Borough Council</owners>
+    <licenseUrl>https://github.com/GuildfordBC/flake-id-generators/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/GuildfordBC/flake-id-generators</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Flake ID Generators is a set of decentralized, k-ordered id generation services in C#.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
