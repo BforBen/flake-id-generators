@@ -6,6 +6,7 @@ Flake ID Generators is a set of decentralized, k-ordered id generation services 
 * FlakeGen.Id64Generator - generates 64-bit ids. The implementation is heavily derivative of Twitter's Snowflake written is Scala.
 * FlakeGen.IdGuidGenerator - generated Guid (128-bit) ids
 * FlakeGen.IdStringGeneratorWrapper - a wrapper for FlakeGen.Id64Generator returning k-ordered ids in various string formats (e.g. number, hex, base 32)
+
 Both services generates k-ordered ids (read time-ordered lexically). Run one on each node in your infrastructure and they will generate conflict-free ids on-demand without coordination. 
 
 ## Features
