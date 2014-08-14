@@ -1,4 +1,4 @@
-# Welcome to Flake ID Generators Home Page
+# Welcome to Flake ID Generators Home Page [![Build status](https://ci.appveyor.com/api/projects/status/7owtsce777kcpq3x)](https://ci.appveyor.com/project/BforBen/flake-id-generators)
 
 Original source: http://flakeidgenerators.codeplex.com/
 
