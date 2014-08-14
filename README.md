@@ -3,7 +3,7 @@
 Original source: http://flakeidgenerators.codeplex.com/
 
 Flake ID Generators is a set of decentralized, k-ordered id generation services in C#.
-* FlakeGen.Id64Generator - generates 64-bit ids. The implementation is heavily derivative of Twitter's Snowflake written is Scala.
+* FlakeGen.Id64Generator - generates 64-bit ids. The implementation is heavily derivative of Twitter's [Snowflake](https://github.com/twitter/snowflake) written is Scala.
 * FlakeGen.IdGuidGenerator - generated Guid (128-bit) ids
 * FlakeGen.IdStringGeneratorWrapper - a wrapper for FlakeGen.Id64Generator returning k-ordered ids in various string formats (e.g. number, hex, base 32)
 
